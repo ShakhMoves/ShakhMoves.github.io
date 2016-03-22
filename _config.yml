@@ -1,7 +1,7 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog A Elegant template for Jekyll
+title: ShakhMoves Blog
+description: Shakh Post of Shakh People in Shakh Blog
 keywords: Modern, Blogging, Fun
-author: Wferr
+author: ShakhMoves
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
